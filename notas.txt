@@ -21,4 +21,4 @@ builder.Services.AddRazorPages();
 
 https://www.youtube.com/watch?v=Q82xxZ1EcD0&t=1s
 
-https://drive.google.com/drive/folders/1AIFRxjLLqdanFado5dgJ0vtkTmK5Znzq?usp=share_link
+https://drive.google.com/drive/folders/1NqGWBsY-VzMcs9KP4FwEor9qZ-ML3awE?usp=sharing
