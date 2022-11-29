@@ -1,0 +1,24 @@
+
+1. Crear Mvc Proyect
+2. Agregar Soporte para razor
+
+// Add services to the container.
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+builder.Services.AddRazorPages(); 
+
+3. Crear Modelo
+4. Crear Controlador
+5. Crear Vista
+	5.1 Referenciar al layout
+	5.2 Agregar Bootstrap (en dependencia de la versión puede cambiar la sintaxis del dialogo)
+
+6. Se crea un metodo post en el controlador para guardar
+7. Se validan los campos en la vista
+8. Agregar las librerías de datatables.net
+	8.1 css
+	8.2 js
+9. Crear en el controlador el metodo ver todos
+
+https://www.youtube.com/watch?v=Q82xxZ1EcD0&t=1s
+
+https://drive.google.com/drive/folders/1AIFRxjLLqdanFado5dgJ0vtkTmK5Znzq?usp=share_link
